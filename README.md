@@ -44,7 +44,7 @@ docker logs -f miniconta_api
 
 ---
 
-## 📌 Regras Gerais
+## 📌 Regras Gerais + Operações
 
 ### 🔐 Token
 
@@ -391,7 +391,7 @@ valor > 0
 }
 ```
 
-❌ Operação negada: apenas o dono da conta de origem pode transferir.
+❌ Operação negada: apenas o dono da conta de origem pode transferir.(Token errado do usuário dono da conta 2) 
 
 ---
 
