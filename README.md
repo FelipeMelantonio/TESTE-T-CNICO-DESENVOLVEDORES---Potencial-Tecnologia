@@ -67,8 +67,7 @@ Existem dois perfis:
 - A cada endpoint mostra no console os detalhes da requisição
 - Somente ADMIN pode criar outro ADMIN
 - Existe um ADMIN pré-criado automaticamente ao iniciar a aplicação
-- Valor > 0
-- não pode deixar saldo negativo
+- Valor > 0 / não pode deixar saldo negativo
 
 #### Admin Padrão (Seed):
 
@@ -391,7 +390,7 @@ valor > 0
 }
 ```
 
-❌ Operação negada: apenas o dono da conta de origem pode transferir.(Token errado do usuário dono da conta 2) 
+❌ Operação negada: apenas o dono da conta de origem pode transferir.(Token errado: usuário que não é dono da contaOrigemId) 
 
 ---
 
@@ -524,5 +523,5 @@ Este projeto é de uso educacional e técnico.
 
 ## 👨‍💻 Autor
 
-Desenvolvido como teste técnico para **Potencial Tecnologia**.
+Desenvolvido por Felipe Ferreira Melantonio como teste técnico para **Potencial Tecnologia**.
 
