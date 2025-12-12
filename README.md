@@ -23,7 +23,7 @@ A aplicação será iniciada automaticamente.
 API disponível em:
 👉 http://localhost:8080
 
-###📊 2. Visualizar logs e auditoria
+📊 2. Visualizar logs e auditoria
 Para acompanhar os logs da aplicação e os registros de auditoria:
 docker logs -f miniconta_api
 
