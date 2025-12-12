@@ -437,7 +437,7 @@ O sistema valida saldo antes da operação.
 {
   "contaOrigemId": 1,
   "valor": 50.00,
-  "banco": "341",
+  "banco": 341,
   "agencia": "1234",
   "conta": "56789-0",
   "cpfDestino": "98765432100"
