@@ -103,7 +103,7 @@ POST /auth/login
 
 **Endpoint:**
 ```
-POST /auth/register
+POST /auth/registrar
 ```
 
 **Payload:**
@@ -123,7 +123,7 @@ POST /auth/register
 
 **Endpoint:**
 ```
-POST /auth/register
+POST /auth/registrar
 ```
 
 **Payload:**
@@ -490,7 +490,7 @@ Inclui:
 
 1. **Login como ADMIN** (`POST /auth/login`) - usar email e senha do admin padrão
 2. **Criar outro ADMIN** (se necessário so registrar e criar) - usar token do admin 1
-3. **Registrar um USER** (`POST /auth/register`)
+3. **Registrar um USER** (`POST /auth/registrar`)
 4. **Login como USER** (`POST /auth/login`) - usar email e senha criados
 5. **Criar Conta** (`POST /contas/usuario/{usuarioId}`) - com token do USER
 6. **Depósito** (`POST /transacoes/deposito`) - com token do USER
