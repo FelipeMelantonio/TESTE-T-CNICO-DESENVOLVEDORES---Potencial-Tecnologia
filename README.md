@@ -523,5 +523,5 @@ Este projeto é de uso educacional e técnico.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Felipe Ferreira Melantonio como teste técnico para **Potencial Tecnologia**.
+Desenvolvido por Felipe Ferreira Melantonio .
 
